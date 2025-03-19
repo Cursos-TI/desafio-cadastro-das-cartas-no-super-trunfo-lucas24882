@@ -6,6 +6,11 @@ printf("cadastro das cartas");
 char estado [50];
 char código [50];
 char cidade [50];
+int população;
+float área 
+ 
+
+
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas

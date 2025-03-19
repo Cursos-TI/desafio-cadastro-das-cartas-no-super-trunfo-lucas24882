@@ -2,16 +2,38 @@
 int main(){
 
 printf("desafio super trunfo!\n");
-printf("cadastro das cartas");
-char estado [50] ="ceará";
-char código [50] = 'A01';
-char cidade [50] ="fortaleza";
-int população = 900000000;
-float área = 148894442;
-float pib = 194885000;
-int pontosturisticos = 40; 
 
-printf(" o estado e: %s\n", estado);
+printf("cadastro das cartas!\n");
+printf("\n*** DESAFIO SUPER TRUNFO. NIVEL: NOVATO***\n");
+
+
+
+  // Declaração das variáveis para as duas cartas
+
+  
+
+  char estado_1 [20] = 'ceará';
+
+  char codigo_da_carta_1[50];
+
+  char nome_da_cidade_1[50];
+
+  int populacao_1;
+
+  float area_1; 
+
+  float pib_1;
+
+  int pontos_turisticos_1;
+
+  
+  
+  
+
+  
+  
+
+
 
  
 

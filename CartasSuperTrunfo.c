@@ -7,7 +7,9 @@ char estado [50];
 char código [50];
 char cidade [50];
 int população;
-float área 
+float área; 
+float pib;
+int pontosturisticos;
  
 
 

@@ -3,13 +3,15 @@ int main(){
 
 printf("desafio super trunfo!\n");
 printf("cadastro das cartas");
-char estado [50];
+char estado [50] ="ceará";
 char código [50];
 char cidade [50];
 int população;
 float área; 
 float pib;
 int pontosturisticos;
+printf("digite o estado: \n");
+
  
 
 

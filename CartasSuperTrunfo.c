@@ -3,6 +3,9 @@ int main(){
 
 printf("desafio super trunfo!\n");
 printf("cadastro das cartas");
+char estado [50];
+char código [50];
+char cidade [50];
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas

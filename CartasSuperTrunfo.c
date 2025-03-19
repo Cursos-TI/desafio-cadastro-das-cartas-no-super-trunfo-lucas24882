@@ -2,6 +2,7 @@
 int main(){
 
 printf("desafio super trunfo!\n");
+printf("cadastro das cartas");
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas

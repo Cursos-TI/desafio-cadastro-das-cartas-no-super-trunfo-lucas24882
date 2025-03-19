@@ -9,8 +9,9 @@ char cidade [50] ="fortaleza";
 int população = 900000000;
 float área = 148894442;
 float pib = 194885000;
-int pontosturisticos; = 40;
-printf("digite o estado: \n");
+int pontosturisticos = 40; 
+
+printf(" o estado e: %s\n", estado);
 
  
 
